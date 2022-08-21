@@ -1,0 +1,4 @@
+pdfplumber
+numpy == 1.20.1
+pandas == 1.0.3
+sqlalchemy
